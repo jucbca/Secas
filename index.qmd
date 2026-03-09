@@ -4,7 +4,7 @@ editor_options:
   chunk_output_type: inline
 ---
 
-![](images/logo_texto.png)
+![](images/logo_texto.png){fig-align="center"}
 
 ## Descubre cómo preparar setas deshidratadas
 
