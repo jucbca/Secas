@@ -1,10 +1,11 @@
 ---
-title: "Secas"
-format: html
+output: html_document
+editor_options: 
+  chunk_output_type: inline
 ---
 
-\![\](images/logo_nombre_texto.png)
+![](images/logo_texto.png)
 
-```{r}
-print(getwd())
-```
+## Descubre cómo preparar setas deshidratadas
+
+Hidrata y disfruta! [Haz click acá para ver el recetario completo](Recetario.pdf)
