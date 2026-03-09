@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Secas",
     "section": "",
-    "text": "! [ ] (images/logo+nombre+texto.png){width = 50%}"
+    "text": "![](images/logo_nombre_texto.png)\n\nprint(getwd())\n\n[1] \"/Users/j/Documents/GitHub/secas\""
   },
   {
     "objectID": "about.html",

@@ -3,4 +3,8 @@ title: "Secas"
 format: html
 ---
 
-! \[ \] (images/logo+nombre+texto.png){width = 50%}
+\![\](images/logo_nombre_texto.png)
+
+```{r}
+print(getwd())
+```
