@@ -6,6 +6,14 @@ editor_options:
 
 ![](images/logo_texto.png){fig-align="center"}
 
+<center>
+
 ## Descubre cómo preparar setas deshidratadas
 
-Hidrata y disfruta! [Haz click acá para ver el recetario completo](Recetario.pdf)
+¡Hidrata y disfruta!
+
+[Haz click acá para ver el recetario completo](Recetario.pdf)
+
+</center>
+
+## 
