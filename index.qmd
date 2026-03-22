@@ -8,7 +8,7 @@ editor_options:
 
 <center>
 
-## Guía rápida para preparar tus Secas
+## Cómo preparar tus Secas
 
 </center>
 
@@ -20,6 +20,6 @@ editor_options:
 
 3.  Utilízalas en distintas preparaciones: sopas, arroces, salteados y mucho más.
 
-<center>**Encuentra más recetas con setas Secas**</center>
+<center>**Encuentra más recetas con Secas**</center>
 
 [![](images/logo_recetario_negro.png){fig-align="center" width="85"}](Recetario.pdf)
