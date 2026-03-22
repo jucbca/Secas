@@ -4,11 +4,11 @@ editor_options:
   chunk_output_type: inline
 ---
 
-![](images/logo_texto.png){fig-align="center"}
+![](images/logo_texto.png){fig-align="center" width="650"}
 
 <center>
 
-## Cómo preparar tus Secas
+## Preparar tus Secas
 
 </center>
 
