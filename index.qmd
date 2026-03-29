@@ -23,7 +23,7 @@ editor_options:
 
     Puedes usar Secas en: ajiaco, sopas, arroces, salteados y mucho más.
 
-<br><br>
+    <br>
 
 <center>**Encuentra más recetas con Secas**</center>
 
