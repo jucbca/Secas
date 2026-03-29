@@ -18,11 +18,13 @@ editor_options:
 2.  Escurre las setas hidratadas, aprieta suavemente para sacar exceso de agua.\
     *Puedes reservar el agua para un caldo*
 
-3.  Cocinar en un sarten muy caliente hasta que esten doradas. \
+3.  Cocinar en un sarten muy caliente hasta que esten doradas.\
     *Recuerda agregar sal y condimentar*
 
     Puedes usar Secas en: ajiaco, sopas, arroces, salteados y mucho más.
 
+<br><br>
+
 <center>**Encuentra más recetas con Secas**</center>
 
-[![](images/logo_recetario_negro.png){fig-align="center" width="85"}](Recetario.pdf)
+[![](images/BotonRecetario.png){fig-align="center" width="304" height="77"}](Recetario.pdf)
