@@ -107,9 +107,6 @@ format:
 }
 </style>
 ```
-::: {.cursor-seta}
-
-
 ::: hero-secas
 ![](images/logo_texto.png){fig-align="center"}
 
@@ -173,5 +170,3 @@ Una preparación rápida para servir como entrada, acompañamiento o relleno.
 
 
 
-
-:::

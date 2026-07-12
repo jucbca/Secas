@@ -1,4 +1,12 @@
 /* css styles */
+/* Cursor personalizado */
 body {
-  cursor: url("images/cursor_seta.png") 16 16, auto;
+    cursor: url("images/cursor_seta.png") 16 16, auto;
+}
+
+/* Mantener la mano en elementos clicables */
+a,
+button,
+.btn {
+    cursor: pointer;
 }
