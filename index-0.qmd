@@ -1,0 +1,30 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: inline
+---
+
+![](images/logo_texto.png){fig-align="center" width="650"}
+
+<center>
+
+## Rehidrata setas Secas
+
+</center>
+
+1.  Cubrir con agua caliente (60-70 ºC) durante 2–5 minutos.\
+    *Cubre las setas completamente*
+
+2.  Escurre las setas hidratadas, aprieta suavemente para sacar exceso de agua.\
+    *Puedes reservar el agua para un caldo*
+
+3.  Cocinar en un sartén muy caliente hasta que esten doradas por ambos lados.\
+    *Recuerda agregar sal y condimentar*
+
+    Puedes usar Secas en: ajiaco, sopas, arroces, salteados y mucho más.
+
+    <br>
+
+<center>**Encuentra más recetas con Secas**</center>
+
+[![](images/BotonRecetario.png){fig-align="center" width="304" height="77"}](Recetario.pdf)

@@ -1,30 +1,174 @@
 ---
-output: html_document
-editor_options: 
-  chunk_output_type: inline
+title: "Inicio"
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: styles.css
 ---
 
-![](images/logo_texto.png){fig-align="center" width="650"}
+```{=html}
+<style>
+.hero-secas {
+  max-width: 1050px;
+  margin: 0 auto 3rem auto;
+  padding: 2.5rem 1.5rem;
+  text-align: center;
+}
 
-<center>
+.hero-secas img {
+  max-width: 650px;
+  width: 90%;
+  height: auto;
+}
 
-## Rehidrata setas Secas
+.hero-secas p {
+  max-width: 720px;
+  margin: 1.5rem auto 0 auto;
+  font-size: 1.15rem;
+  line-height: 1.7;
+}
 
-</center>
+.seccion-secas {
+  max-width: 1100px;
+  margin: 0 auto 4rem auto;
+  padding: 0 1.25rem;
+}
 
-1.  Cubrir con agua caliente (60-70 ºC) durante 2–5 minutos.\
-    *Cubre las setas completamente*
+.seccion-secas h2 {
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
 
-2.  Escurre las setas hidratadas, aprieta suavemente para sacar exceso de agua.\
-    *Puedes reservar el agua para un caldo*
+.intro-seccion {
+  max-width: 700px;
+  margin: 0 auto 2rem auto;
+  text-align: center;
+}
 
-3.  Cocinar en un sartén muy caliente hasta que esten doradas por ambos lados.\
-    *Recuerda agregar sal y condimentar*
+.tarjeta-receta {
+  height: 100%;
+  padding: 1.4rem;
+  border: 1px solid #e7dfd2;
+  border-radius: 18px;
+  background: #fffdf8;
+  box-shadow: 0 5px 18px rgba(70, 52, 33, 0.07);
+}
 
-    Puedes usar Secas en: ajiaco, sopas, arroces, salteados y mucho más.
+.tarjeta-receta img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: 12px;
+  margin-bottom: 1rem;
+}
 
-    <br>
+.tarjeta-receta h3 {
+  margin-top: 0;
+}
 
-<center>**Encuentra más recetas con Secas**</center>
+.tarjeta-receta a {
+  font-weight: 600;
+  text-decoration: none;
+}
 
-[![](images/BotonRecetario.png){fig-align="center" width="304" height="77"}](Recetario.pdf)
+.guia-rapida {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  border-radius: 18px;
+  background: #f6f0e5;
+}
+
+.guia-rapida li {
+  margin-bottom: 1.25rem;
+  padding-left: 0.4rem;
+}
+
+.boton-recitario {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.boton-recitario img {
+  max-width: 304px;
+  width: 80%;
+  height: auto;
+}
+
+@media (max-width: 768px) {
+  .hero-secas {
+    padding-top: 1.5rem;
+  }
+
+  .guia-rapida {
+    padding: 1.4rem;
+  }
+}
+</style>
+```
+
+::: hero-secas
+![](images/logo_texto.png){fig-align="center"}
+
+## Recetas fáciles para disfrutar tus setas Secas
+
+Descubre preparaciones sencillas y sabrosas. En cada receta encontrarás cómo alistar las Secas, los ingredientes necesarios y los pasos para preparar el plato completo.
+:::
+::::: seccion-secas
+## Antes de cocinar: preparación rapida de tus Secas para cualquier ocasión
+
+::: guia-rapida
+1.  **Hidrata.** Cubre las setas completamente con agua caliente, no hirviendo, entre 60 y 70 °C durante 2–5 minutos.\
+    *Usa suficiente agua para que todas queden sumergidas.*
+
+2.  **Escurre.** Retira el agua y aprieta las setas suavemente para eliminar el exceso.\
+    *Este caldo está lleno de sabor! Úsalo para darle sabor a un arroz o una sopa*
+
+3.  **Condimenta.** Agrega sal, un poco de aceite, y condimentos al gusto.\
+    *Mezcla bien todo.*
+
+4.  **Dora.** Cocina las setas en una sartén muy caliente hasta que estén doradas por ambos lados.\
+
+
+Usa estas Secas doradas como proteína en arroces, huevos revueltos, pastas y muchos otras platos.
+:::
+::::::::::: seccion-secas
+## Explora nuestras recetas
+
+::: intro-seccion
+Selecciona una receta para ver los ingredientes y el procedimiento completo.
+:::
+
+::::::::: grid
+
+:::: {.g-col-12 .g-col-md-4}
+::: tarjeta-receta
+![](images/receta_ajillo.png){fig-alt="Setas Secas al ajillo"}
+
+### Orellanas glaseadas al ajo y limón
+
+Una preparación rápida para servir como entrada, acompañamiento o relleno.
+
+[Ver receta](recetas/orellanas-glaseadas-al-ajo-y-limon.qmd)
+:::
+::::
+
+:::: {.g-col-12 .g-col-md-4}
+::: tarjeta-receta
+![](images/plantilla.png){fig-alt="plantilla"}
+
+### Plantilla
+
+Una preparación rápida para servir como entrada, acompañamiento o relleno.
+
+[Ver receta](recetas/Template_recetas.qmd)
+:::
+::::
+
+:::::::::
+:::::::::::
+
+
+
+:::::

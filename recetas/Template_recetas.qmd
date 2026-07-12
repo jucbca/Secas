@@ -1,0 +1,29 @@
+# \[Receta deliciosa\]
+
+![](images/imagen_receta.png){fig-align="center" width="80%"}
+
+
+## Ingredientes para 2 porciones
+
+- \[40\] g de setas Secas
+- \[Cantidad\] de \[ingrediente 2\]
+- \[Cantidad\] de \[ingrediente 3\]
+- Sal y condimentos al gusto
+
+## Pasos a seguir
+
+1.  **Preparar las setas.**\
+    \[Descripción del primer paso.\]
+
+2.  **Paso 1**\
+    \[Descripción del segundo paso.\]
+
+3.  **Paso 2**\
+    \[Descripción de la cocción.\]
+
+4.  **Paso 3**\
+    \[Descripción del paso final.\]
+    
+4.  **Acompaña con**\
+    \[Descripción del paso final.\]
+    
