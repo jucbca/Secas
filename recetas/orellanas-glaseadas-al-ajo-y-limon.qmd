@@ -1,4 +1,5 @@
-# Orellanas Glaseadas al Ajo y Limón 
+# Orellanas Glaseadas al Ajo y Limón
+
 Tiempo de preparación: 20 min
 
 ![](images/orellanas_glaseadas_ajo_limon.png){fig-align="center" width="80%"}
@@ -32,18 +33,12 @@ Tiempo de preparación: 20 min
 
 6.  **Acompaña con**\
     Arroz blanco, tortillas, arepas o ensalada verde.
-    
 
-<div style="text-align:center;">
-  <a href="../index.html"
+::: {style="text-align:center;"}
+<a href="../index.html"
      style="display:inline-flex;
             flex-direction:column;
             align-items:center;
             text-decoration:none;
-            color:#555;">
-      <img src="../images/logo_texto.png" width="220">
-      <span style="margin-top:8px;">
-          ← Volver al inicio
-      </span>
-  </a>
-</div>
+            color:#555;"> <img src="../images/logo_texto.png" width="220"/> [ ← Volver al inicio ]{style="margin-top:8px;"} </a>
+:::
