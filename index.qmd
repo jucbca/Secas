@@ -107,6 +107,8 @@ format:
 }
 </style>
 ```
+::: {.cursor-seta}
+
 
 ::: hero-secas
 ![](images/logo_texto.png){fig-align="center"}
@@ -125,7 +127,7 @@ Descubre preparaciones sencillas y sabrosas. En cada receta encontrarás cómo a
 2.  **Escurre.** Retira el agua y aprieta las setas suavemente para eliminar el exceso.\
     *Este caldo está lleno de sabor! Úsalo a un arroz o una sopa*
 
-3.  **Condimenta.** Agrega sal, un poco de aceite, y condimentos al gusto. Mezcla bien\
+3.  **Limpia y condimenta.** Corta los tallos gruesos de las Secas. Agrega sal, un poco de aceite, y condimentos al gusto. Mezcla bien\
 
 4.  **Dora.** Cocina las setas en una sartén muy caliente hasta que estén doradas por ambos lados.\
 
@@ -170,4 +172,6 @@ Una preparación rápida para servir como entrada, acompañamiento o relleno.
 
 
 
-:::::
+
+
+:::

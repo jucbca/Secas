@@ -1,1 +1,4 @@
 /* css styles */
+body {
+  cursor: url("images/cursor_seta.png") 16 16, auto;
+}
