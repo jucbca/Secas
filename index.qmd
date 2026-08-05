@@ -5,6 +5,7 @@ format:
     page-layout: full
     toc: false
     css: styles.css
+    anchor-sections: false
 ---
 
 ```{=html}
@@ -101,7 +102,7 @@ format:
 ![](images/logo_texto.png){fig-align="center"}
 
 ## Recetas sencillas para disfrutar tus setas Secas
-<div class="caja-intro" href="guia-rapida.qmd">
+<div class="caja-intro" onclick="window.location.href='guia-rapida.html'">
   <h3>📖 Guía rápida</h3>
   <p>
   Aprende acá a rehidratar tus Secas en nuestra guía rápida
