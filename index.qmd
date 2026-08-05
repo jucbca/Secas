@@ -101,7 +101,7 @@ format:
 ::: hero-secas
 ![](images/logo_texto.png){fig-align="center"}
 
-## Recetas sencillas para disfrutar tus setas Secas
+## Encuentra todo para preparar tus setas Secas
 <div class="caja-intro" onclick="window.location.href='guia-rapida.html'">
   <h3>📖 Guía rápida</h3>
   <p>
