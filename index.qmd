@@ -115,7 +115,6 @@ format:
 ::: intro-seccion
 Selecciona una receta para ver los ingredientes y el procedimiento completo.
 :::
-
 ::::::::: grid
 
 :::: {.g-col-12 .g-col-md-4}
