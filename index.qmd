@@ -100,7 +100,6 @@ format:
 ```
 ::: hero-secas
 ![](images/logo_texto.png){fig-align="center"}
-
 ## Encuentra todo para preparar tus setas Secas
 <div class="caja-intro" onclick="window.location.href='guia-rapida.html'">
   <h3>Guía rápida ⌛ [10 min]</h3>
