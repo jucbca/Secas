@@ -1,0 +1,133 @@
+---
+title: "Guía rápida"
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: styles.css
+---
+
+```{=html}
+<style>
+.barra-superior {
+  max-width: 900px;
+  margin: 1rem auto 0 auto;
+  padding: 0 1.5rem;
+}
+
+.boton-volver {
+  display: inline-flex;
+  align-items: center;
+  gap: .4rem;
+  padding: .55rem 1rem;
+  border-radius: 999px;
+  background: #ffffff;
+  border: 1px solid #d7d7d7;
+  color: #444;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all .2s ease;
+}
+
+.boton-volver:hover {
+  background: #f2f2f2;
+  border-color: #bfbfbf;
+}
+
+.hero-secas {
+  max-width: 900px;
+  margin: 0 auto 3rem auto;
+  padding: 2.5rem 1.5rem;
+  text-align: center;
+}
+
+.hero-secas img {
+  max-width: 650px;
+  width: 90%;
+  height: auto;
+}
+
+.hero-secas p {
+  max-width: 720px;
+  margin: 1.5rem auto 0 auto;
+  font-size: 1.15rem;
+  line-height: 1.7;
+}
+
+.guia-rapida {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  border-radius: 18px;
+  background: #f6f0e5;
+}
+
+.guia-rapida li {
+  margin-bottom: 1.4rem;
+  padding-left: 0.4rem;
+}
+
+.boton-indice {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.boton-indice a {
+  display: inline-block;
+  padding: 0.9rem 1.8rem;
+  border-radius: 999px;
+  background: #556b2f;
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.boton-indice a:hover {
+  background: #445723;
+}
+
+@media (max-width: 768px) {
+  .hero-secas {
+    padding-top: 1.5rem;
+  }
+
+  .guia-rapida {
+    padding: 1.4rem;
+  }
+}
+</style>
+```
+
+::: barra-superior
+<a class="boton-volver" href="index.qmd"> ← Inicio </a>
+:::
+
+::: hero-secas
+![](images/logo_texto.png){fig-align="center"}
+
+Obten la mejor textura y sabor de tus **Secas** para usar con cualquier receta
+:::
+
+::: guia-rapida
+1.  **Hidrata.**\
+    Cubre las setas con agua caliente (no hirviendo), entre **60 y 70 °C**, durante **2–5 minutos**.
+
+    *Usa suficiente agua para que todas queden completamente sumergidas.*
+
+2.  **Escurre.**\
+    Retira el agua y aprieta suavemente las setas para eliminar el exceso de líquido.
+
+    *¡No desperdicies el caldo! Está lleno de sabor y puedes usarlo para preparar arroces, sopas o salsas.*
+
+3.  **Limpia y condimenta.**\
+    Retira los tallos gruesos si es necesario. Agrega sal, un poco de aceite y los condimentos que prefieras. Mezcla bien para distribuir los sabores.
+
+4.  **Dora.**\
+    Cocina las setas en una sartén muy caliente hasta que estén bien doradas por ambos lados.
+
+Al terminar estos pasos, tus **Secas** estarán listas para usarse en arroces, pastas, huevos, tacos, hamburguesas y muchas otras preparaciones.
+:::
+
+::: boton-indice
+<a href="indice.qmd">Ir al índice de recetas →</a>
+:::

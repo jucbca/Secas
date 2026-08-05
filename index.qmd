@@ -10,9 +10,9 @@ format:
 ```{=html}
 <style>
 .hero-secas {
-  max-width: 1050px;
-  margin: 0 auto 3rem auto;
-  padding: 2.5rem 1.5rem;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem;
   text-align: center;
 }
 
@@ -24,85 +24,75 @@ format:
 
 .hero-secas p {
   max-width: 720px;
-  margin: 1.5rem auto 0 auto;
+  margin: 1.5rem auto;
   font-size: 1.15rem;
   line-height: 1.7;
 }
 
-.seccion-secas {
-  max-width: 1100px;
-  margin: 0 auto 4rem auto;
-  padding: 0 1.25rem;
+.botones-inicio {
+  margin-top: 2.5rem;
+  display: flex;
+  justify-content: center;
+  gap: 1.2rem;
+  flex-wrap: wrap;
 }
 
-.seccion-secas h2 {
-  text-align: center;
-  margin-bottom: 0.5rem;
-}
-
-.intro-seccion {
-  max-width: 700px;
-  margin: 0 auto 2rem auto;
-  text-align: center;
-}
-
-.tarjeta-receta {
-  height: 100%;
-  padding: 1.4rem;
-  border: 1px solid #e7dfd2;
-  border-radius: 18px;
-  background: #fffdf8;
-  box-shadow: 0 5px 18px rgba(70, 52, 33, 0.07);
-}
-
-.tarjeta-receta img {
-  width: 100%;
-  aspect-ratio: 4 / 3;
-  object-fit: cover;
-  border-radius: 12px;
-  margin-bottom: 1rem;
-}
-
-.tarjeta-receta h3 {
-  margin-top: 0;
-}
-
-.tarjeta-receta a {
-  font-weight: 600;
+.boton-principal {
+  display: inline-block;
+  padding: 0.9rem 1.8rem;
+  border-radius: 999px;
+  background: #556b2f;
+  color: white;
   text-decoration: none;
+  font-weight: 600;
+  transition: all .2s ease;
 }
 
-.guia-rapida {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 2rem;
-  border-radius: 18px;
-  background: #f6f0e5;
-}
-
-.guia-rapida li {
-  margin-bottom: 1.25rem;
-  padding-left: 0.4rem;
-}
-
-.boton-recitario {
-  text-align: center;
-  margin-top: 2rem;
-}
-
-.boton-recitario img {
-  max-width: 304px;
-  width: 80%;
-  height: auto;
+.boton-principal:hover {
+  background: #445723;
+  transform: translateY(-2px);
 }
 
 @media (max-width: 768px) {
   .hero-secas {
-    padding-top: 1.5rem;
+    padding-top: 2rem;
   }
 
-  .guia-rapida {
-    padding: 1.4rem;
+  .botones-inicio {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .boton-principal {
+    width: 260px;
+    text-align: center;
+  }
+  .caja-intro {
+  display: block;
+  max-width: 720px;
+  margin: 2rem auto 0 auto;
+  padding: 1.5rem 2rem;
+  background: #f8f6f2;
+  border: 1px solid #e6dfd4;
+  border-radius: 16px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+
+  color: inherit;
+  text-decoration: none;
+
+  transition: all .2s ease;
+  cursor: pointer;
+  }
+  
+  .caja-intro:hover {
+    background: #f3eee4;
+    border-color: #d9cfbf;
+    box-shadow: 0 5px 16px rgba(0,0,0,0.10);
+    transform: translateY(-2px);
+  }
+  
+  .caja-intro p:last-child {
+    margin-bottom: 0;
   }
 }
 </style>
@@ -110,26 +100,13 @@ format:
 ::: hero-secas
 ![](images/logo_texto.png){fig-align="center"}
 
-## Recetas fáciles para disfrutar tus setas Secas
-
-Descubre preparaciones sencillas y sabrosas. En cada receta encontrarás cómo alistar las Secas, los ingredientes necesarios y los pasos para preparar el plato completo.
-:::
-::::: seccion-secas
-## Antes de cocinar: preparación rapida de tus Secas para cualquier ocasión
-
-::: guia-rapida
-1.  **Hidrata.** Cubre las setas con agua caliente, no hirviendo, entre 60 y 70 °C durante 2–5 minutos.\
-    *Usa suficiente agua para que todas queden sumergidas.*
-
-2.  **Escurre.** Retira el agua y aprieta las setas suavemente para eliminar el exceso.\
-    *Este caldo está lleno de sabor! Úsalo a un arroz o una sopa*
-
-3.  **Limpia y condimenta.** Corta los tallos gruesos de las Secas. Agrega sal, un poco de aceite, y condimentos al gusto. Mezcla bien\
-
-4.  **Dora.** Cocina las setas en una sartén muy caliente hasta que estén doradas por ambos lados.\
-
-
-Usa estas Secas doradas como proteína en arroces, huevos revueltos, pastas y muchos otras platos.
+## Recetas sencillas para disfrutar tus setas Secas
+<div class="caja-intro" href="guia-rapida.qmd">
+  <h3>📖 Guía rápida</h3>
+  <p>
+  Aprende acá a rehidratar tus Secas en nuestra guía rápida
+  </p>
+</div>
 :::
 ::::::::::: seccion-secas
 ## Explora nuestras recetas
