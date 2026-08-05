@@ -1,0 +1,148 @@
+---
+title: ""
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: styles.css
+    anchor-sections: false
+---
+
+```{=html}
+<style>
+.hero-secas {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+.hero-secas img {
+  max-width: 650px;
+  width: 90%;
+  height: auto;
+}
+
+.hero-secas p {
+  max-width: 720px;
+  margin: 1.5rem auto;
+  font-size: 1.15rem;
+  line-height: 1.7;
+}
+
+.botones-inicio {
+  margin-top: 2.5rem;
+  display: flex;
+  justify-content: center;
+  gap: 1.2rem;
+  flex-wrap: wrap;
+}
+
+.boton-principal {
+  display: inline-block;
+  padding: 0.9rem 1.8rem;
+  border-radius: 999px;
+  background: #556b2f;
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all .2s ease;
+}
+
+.boton-principal:hover {
+  background: #445723;
+  transform: translateY(-2px);
+}
+
+@media (max-width: 768px) {
+  .hero-secas {
+    padding-top: 2rem;
+  }
+
+  .botones-inicio {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .boton-principal {
+    width: 260px;
+    text-align: center;
+  }
+  .caja-intro {
+  display: block;
+  max-width: 720px;
+  margin: 2rem auto 0 auto;
+  padding: 1.5rem 2rem;
+  background: #f8f6f2;
+  border: 1px solid #e6dfd4;
+  border-radius: 16px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+
+  color: inherit;
+  text-decoration: none;
+
+  transition: all .2s ease;
+  cursor: pointer;
+  }
+  
+  .caja-intro:hover {
+    background: #f3eee4;
+    border-color: #d9cfbf;
+    box-shadow: 0 5px 16px rgba(0,0,0,0.10);
+    transform: translateY(-2px);
+  }
+  
+  .caja-intro p:last-child {
+    margin-bottom: 0;
+  }
+}
+</style>
+```
+::: hero-secas
+![](images/logo_texto.png){fig-align="center"}
+## Encuentra todo para preparar tus setas Secas
+<div class="caja-intro" onclick="window.location.href='guia-rapida.html'">
+  <h3>Guía rápida ⌛ [10 min]</h3>
+  <p>
+  Aprende acá a rehidratar tus Secas en nuestra guía rápida
+  </p>
+</div>
+:::
+::::::::::: seccion-secas
+## Explora nuestras recetas
+
+::: intro-seccion
+Selecciona una receta para ver los ingredientes y el procedimiento completo.
+:::
+::::::::: grid
+
+:::: {.g-col-12 .g-col-md-4}
+::: tarjeta-receta
+![](images/receta_ajillo.png){fig-alt="Setas Secas al ajillo"}
+
+### Orellanas glaseadas al ajo y limón
+
+Una preparación rápida para servir como entrada, acompañamiento o relleno.
+
+[Ver receta](recetas/orellanas-glaseadas-al-ajo-y-limon.qmd)
+:::
+::::
+
+:::: {.g-col-12 .g-col-md-4}
+::: tarjeta-receta
+![](images/plantilla.png){fig-alt="plantilla"}
+
+### Plantilla
+
+Una preparación rápida para servir como entrada, acompañamiento o relleno.
+
+[Ver receta](recetas/Template_recetas.qmd)
+:::
+::::
+
+:::::::::
+:::::::::::
+
+
+
+
