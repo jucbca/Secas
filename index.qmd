@@ -104,7 +104,7 @@ format:
 <div class="caja-intro" onclick="window.location.href='guia-rapida.html'">
   <h3>Guía rápida ⌛ [10 min]</h3>
   <p>
-  Aprende acá a rehidratar tus Secas en nuestra guía rápida
+  Aprende a rehidratar tus Secas
   </p>
 </div>
 :::
