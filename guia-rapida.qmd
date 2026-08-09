@@ -131,3 +131,11 @@ Al terminar estos pasos, tus **Secas** estarán listas para usarse en arroces, p
 ::: boton-indice
 <a href="indice.qmd">Ir al índice de recetas →</a>
 :::
+
+<a class="wp-flotante"
+   href="https://wa.me/message/4AZ7XIIEAKWYK1?src=qr"
+   target="_blank"
+   aria-label="Escribir por WhatsApp">
+  <img src="images/wp_logo.png" alt="WhatsApp">
+  <span>Compra Secas acá</span>
+</a>
