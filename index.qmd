@@ -114,10 +114,11 @@ format:
 :::
 
 <a class="wp-flotante"
-   href="AQUI_VA_EL_LINK_DE_WHATSAPP"
+   href="https://wa.me/message/4AZ7XIIEAKWYK1?src=qr"
    target="_blank"
    aria-label="Escribir por WhatsApp">
   <img src="images/wp_logo.png" alt="WhatsApp">
+  <span>Compra Secas acá</span>
 </a>
 
 ::::::: seccion-secas
