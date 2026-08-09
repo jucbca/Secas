@@ -121,6 +121,7 @@ format:
   <span>Compra Secas acá</span>
 </a>
 
+
 ::::::: seccion-secas
 ## Explora nuestras recetas
 ::: intro-seccion
@@ -130,7 +131,7 @@ Selecciona una receta para ver los ingredientes y el procedimiento completo.
 ::::: grid
 :::: {.g-col-12 .g-col-md-4}
 ::: tarjeta-receta
-![](images/receta_ajillo.png){fig-alt="Setas Secas al ajillo"}
+<!-- ![](images/receta_ajillo.png){fig-alt="Setas Secas al ajillo"} -->
 
 ### Orellanas glaseadas al ajo y limón
 
