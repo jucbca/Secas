@@ -103,18 +103,24 @@ format:
 ![](images/logo_texto.png){fig-align="center"}
 
 ## Encuentra todo para preparar tus setas Secas
-
-::: {.caja-intro onclick="window.location.href='guia-rapida.html'"}
-<h3>Guía rápida ⌛ <br>
-<span style="font-size: 0.8em;">(10 min)</span></h3>
-
-<p>Aprende a rehidratar tus Secas acá</p>
-:::
+<div class="tarjetas-inicio">
+  <a class="caja-intro" href="guia-rapida.html">
+    <h3>
+      Guía rápida ⌛ <br>
+      <span style="font-size: 0.8em;">(10 min)</span>
+      <p>Aprende a rehidratar tus Secas acá</p>
+    </h3>
+  </a>
+  <a class="caja-whatsapp" href="https://wa.me/message/4AZ7XIIEAKWYK1?src=qr">
+    <h3>
+      <p>Escríbenos para comprar tus Secas</p>
+      <img src="images/wp_logo.png" class="wp-logo" alt="WhatsApp">
+    </h3>
+  </a>
+</div>
 ::::
-
 ::::::::: seccion-secas
 ## Explora nuestras recetas
-
 ::: intro-seccion
 Selecciona una receta para ver los ingredientes y el procedimiento completo.
 :::

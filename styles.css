@@ -13,11 +13,19 @@ button,
   cursor: url("./images/cursor_seta.png") 16 16, pointer;
 }
 
-/* Caja intro */
-.caja-intro {
-  display: block;
+
+/* Contenedor de las dos tarjetas */
+.tarjetas-inicio {
+  display: flex;
+  gap: 1rem;
+  width: 100%;
   max-width: 720px;
   margin: 2rem auto 0 auto;
+}
+
+/* Caja intro anterior */
+.caja-intro {
+  display: block;
   padding: 1.5rem 2rem;
   background: #f8f6f2;
   border: 1px solid #e6dfd4;
@@ -26,4 +34,49 @@ button,
   color: inherit;
   text-decoration: none;
   cursor: pointer;
+} 
+
+/* Tarjetas Guía rápida y WhatsApp */
+.caja-intro,
+.caja-whatsapp {
+  flex: 1 1 0;
+  min-width: 0;
+  box-sizing: border-box;
+  padding: 1.5rem;
+  background: #f8f6f2;
+  border: 1px solid #e6dfd4;
+  border-radius: 16px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Cursor de seta en ambas tarjetas y su contenido */
+.caja-intro,
+.caja-intro *,
+.caja-whatsapp,
+.caja-whatsapp * {
+  cursor: url("./images/cursor_seta.png") 16 16, pointer;
+}
+
+/* Ajuste para pantallas pequeñas */
+@media (max-width: 600px) {
+  .tarjetas-inicio {
+    gap: 0.6rem;
+  }
+
+  .caja-intro,
+  .caja-whatsapp {
+    padding: 1rem 0.7rem;
+  }
+
+  .caja-intro h3,
+  .caja-whatsapp h3 {
+    font-size: 1rem;
+  }
+
+  .caja-intro p,
+  .caja-whatsapp p {
+    font-size: 0.85rem;
+  }
 }
