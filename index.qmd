@@ -99,23 +99,34 @@ format:
 </style>
 ```
 
-:::: hero-secas
+::: hero-secas
 ![](images/logo_texto.png){fig-align="center"}
 
 ## Encuentra todo para preparar tus setas Secas
-<a class="caja-intro" href="guia-rapida.html">
-  <h3>Guía rápida <br>
-  ⌛ <span style="font-size: 0.8em;">(10 min)</span></h3>
+
+<div class="caja-intro" onclick="window.location.href='guia-rapida.html'">
+  <h3>
+    Guía rápida <br>
+    ⌛ <span style="font-size: 0.8em;">(10 min)</span>
+  </h3>
   <p>Aprende a rehidratar tus Secas acá</p>
+</div>
+:::
+
+<a class="wp-flotante"
+   href="AQUI_VA_EL_LINK_DE_WHATSAPP"
+   target="_blank"
+   aria-label="Escribir por WhatsApp">
+  <img src="images/wp_logo.png" alt="WhatsApp">
 </a>
-::::
-::::::::: seccion-secas
+
+::::::: seccion-secas
 ## Explora nuestras recetas
 ::: intro-seccion
 Selecciona una receta para ver los ingredientes y el procedimiento completo.
 :::
 
-::::::: grid
+::::: grid
 :::: {.g-col-12 .g-col-md-4}
 ::: tarjeta-receta
 ![](images/receta_ajillo.png){fig-alt="Setas Secas al ajillo"}
@@ -127,4 +138,5 @@ Una preparación rápida para servir como entrada, acompañamiento o relleno.
 [Ver receta](recetas/orellanas-glaseadas-al-ajo-y-limon.qmd)
 :::
 ::::
-
+:::::
+:::::::
