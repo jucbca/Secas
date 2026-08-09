@@ -1,14 +1,16 @@
 /* css styles */
 /* Cursor personalizado */
 body {
-    cursor: url("./images/cursor_seta.png") 16 16, auto;
+    cursor: default;
 }
 
 /* Mantener la mano en elementos clicables */
 a,
 button,
-.btn {
-    cursor: pointer;
+.btn,
+.caja-intro,
+.caja-intro * {
+  cursor: url("./images/cursor_seta.png") 16 16, pointer;
 }
 
 /* Caja intro */
