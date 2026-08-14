@@ -136,7 +136,8 @@ format:
 
 ### Orellanas al ajillo
 
-Una receta rápida y sencilla.
+Tiempo de preparación: 20 min <br>
+Dificultad: ⭐⭐☆☆☆
 
 :::
 
@@ -147,7 +148,8 @@ Una receta rápida y sencilla.
 
 ### Pasta con Secas
 
-Cremosa y fácil de preparar.
+Tiempo de preparación: 40 min <br>
+Dificultad: ⭐⭐⭐⭐☆
 
 :::
 
@@ -158,7 +160,8 @@ Cremosa y fácil de preparar.
 
 ### Arroz con setas
 
-Ideal para una comida completa.
+Tiempo de preparación: 20 min <br>
+Dificultad: ⭐⭐⭐☆☆
 
 :::
 
@@ -169,7 +172,8 @@ Ideal para una comida completa.
 
 ### Tacos de Secas
 
-Una opción rápida y sabrosa.
+Tiempo de preparación: 10 min <br>
+Dificultad: ⭐☆☆☆☆
 
 :::
 
