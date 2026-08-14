@@ -47,7 +47,7 @@ Tiempo de preparación: 20 min
    href="https://wa.me/message/4AZ7XIIEAKWYK1?src=qr"
    target="_blank"
    aria-label="Escribir por WhatsApp">
-  <img src="../images/wp_logo.png" alt="WhatsApp">
+  <img src="docs/images/wp_logo.png" alt="WhatsApp">
   <span>Compra Secas acá</span>
 </a>
 

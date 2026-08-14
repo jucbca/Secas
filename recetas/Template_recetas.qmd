@@ -1,8 +1,8 @@
 # \[Receta deliciosa\]
+
 Tiempo de preparación: x min
 
 ![](images/imagen_receta.png){fig-align="center" width="80%"}
-
 
 ## Ingredientes para 2 porciones
 
@@ -24,10 +24,9 @@ Tiempo de preparación: x min
 
 4.  **Paso 3**\
     \[Descripción del paso final.\]
-    
-4.  **Acompaña con**\
+
+5.  **Acompaña con**\
     \[Descripción del paso final.\]
-    
 
 ::: {style="text-align:center;"}
 <a href="../index.html"
@@ -35,5 +34,14 @@ Tiempo de preparación: x min
             flex-direction:column;
             align-items:center;
             text-decoration:none;
-            color:#555;"> <img src="../images/logo_texto.png" width="220"/> [ ← Volver al inicio ]{style="margin-top:8px;"} </a>
+            color:#555;"> <img src="../images/logo_texto.png" width="220"/> [← Volver al inicio]{style="margin-top:8px;"} </a>
 :::
+
+
+<a class="wp-flotante"
+   href="https://wa.me/message/4AZ7XIIEAKWYK1?src=qr"
+   target="_blank"
+   aria-label="Escribir por WhatsApp">
+  <img src="docs/images/wp_logo.png" alt="WhatsApp">
+  <span>Compra Secas acá</span>
+</a>
