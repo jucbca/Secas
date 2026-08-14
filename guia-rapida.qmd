@@ -129,7 +129,7 @@ Al terminar estos pasos, tus **Secas** estarán listas para usarse en arroces, p
 :::
 
 ::: boton-indice
-<a href="indice.qmd">Ir al índice de recetas →</a>
+<a href="index.qmd">Ir al índice de recetas →</a>
 :::
 
 <a class="wp-flotante"

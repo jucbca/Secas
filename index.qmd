@@ -122,23 +122,55 @@ format:
 </a>
 
 
-::::::: seccion-secas
-## Explora nuestras recetas
-::: intro-seccion
-Selecciona una receta para ver los ingredientes y el procedimiento completo.
+
+
+
+
+## Recetas
+
+:::: {.recetas-grid}
+
+::: {.receta-card onclick="window.location.href='recetas/orellanas-glaseadas-al-ajo-y-limon.html'"}
+
+![](images/receta1.jpg)
+
+### Orellanas al ajillo
+
+Una receta rápida y sencilla.
+
 :::
 
-::::: grid
-:::: {.g-col-12 .g-col-md-4}
-::: tarjeta-receta
-<!-- ![](images/receta_ajillo.png){fig-alt="Setas Secas al ajillo"} -->
 
-### Orellanas glaseadas al ajo y limón
+::: {.receta-card onclick="window.location.href='recetas/receta-2.html'"}
 
-Una preparación rápida para servir como entrada, acompañamiento o relleno.
+![](images/receta2.jpg)
 
-[Ver receta](recetas/orellanas-glaseadas-al-ajo-y-limon.qmd)
+### Pasta con Secas
+
+Cremosa y fácil de preparar.
+
 :::
+
+
+::: {.receta-card onclick="window.location.href='recetas/receta-3.html'"}
+
+![](images/receta3.jpg)
+
+### Arroz con setas
+
+Ideal para una comida completa.
+
+:::
+
+
+::: {.receta-card onclick="window.location.href='recetas/receta-4.html'"}
+
+![](images/receta4.jpg)
+
+### Tacos de Secas
+
+Una opción rápida y sabrosa.
+
+:::
+
 ::::
-:::::
-:::::::

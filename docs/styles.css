@@ -10,7 +10,7 @@ button,
 .btn,
 .caja-intro,
 .caja-intro * {
-  cursor: url("./images/cursor_seta.png") 16 16, pointer;
+  cursor: url("./images/Seca_16x17.png") 16 16, pointer;
 }
 
 
@@ -62,7 +62,81 @@ button,
 
 .wp-flotante,
 .wp-flotante * {
-  cursor: url("./images/cursor_seta.png") 16 16, pointer;
+  cursor: url("./images/Seca_16x17.png") 16 16, pointer;
 }
 
+/* parte de recetas modulares */
+/* Sección de recetas */
+.seccion-recetas {
+  max-width: 1200px;
+  margin: 4rem auto;
+  padding: 0 1.5rem;
+}
 
+.seccion-recetas h2 {
+  margin-bottom: 1.5rem;
+}
+
+/* Cuadrícula */
+.recetas-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.5rem;
+}
+
+/* Tarjeta individual */
+.receta-card {
+  display: block;
+  background: #f8f6f2;
+  border: 1px solid #e6dfd4;
+  border-radius: 16px;
+  overflow: hidden;
+  color: inherit;
+  text-decoration: none;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+
+  transition: transform 0.2s ease,
+              box-shadow 0.2s ease;
+}
+
+/* Imagen */
+.receta-card img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  display: block;
+}
+
+/* Texto */
+.receta-info {
+  padding: 1rem;
+}
+
+.receta-info h3 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.1rem;
+}
+
+.receta-info p {
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+/* Hover */
+.receta-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+}
+
+/* Cursor seta */
+.receta-card,
+.receta-card * {
+  cursor: url("./images/Seca_16x17.png") 16 16, pointer;
+}
+
+/* Móvil */
+@media (max-width: 600px) {
+  .recetas-grid {
+    grid-template-columns: 1fr;
+  }
+}
