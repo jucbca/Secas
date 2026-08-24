@@ -13,9 +13,40 @@ button,
   cursor: url("./images/Seca_16x17.png") 16 16, pointer;
 }
 
+/* Contenedor de caja + texto */
+.intro-contenedor {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+/* Caja a la izquierda */
+.intro-contenedor .caja-intro {
+  flex: 0 0 200px;
+}
+
+/* Texto a la derecha */
+.texto-intro {
+  flex: 1;
+}
+
+/* En celular */
+@media (max-width: 600px) {
+  .intro-contenedor {
+    flex-direction: column;
+  }
+
+  .intro-contenedor .caja-intro,
+  .texto-intro {
+    width: 100%;
+  }
+}
 
 /* Caja intro */
 .caja-intro {
+  width: 200px;
+  height: 200px;
+  box-sizing: border-box;
   display: block;
   padding: 1.5rem 2rem;
   background: #f8f6f2;

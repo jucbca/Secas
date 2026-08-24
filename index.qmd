@@ -99,82 +99,67 @@ format:
 </style>
 ```
 
-::: hero-secas
+:::::: hero-secas
 ![](images/logo_texto.png){fig-align="center"}
 
 ## Encuentra todo para preparar tus setas Secas
 
-<div class="caja-intro" onclick="window.location.href='guia-rapida.html'">
-  <h3>
-    Guía rápida <br>
-    ⌛ <span style="font-size: 0.8em;">(10 min)</span>
-  </h3>
-  <p>Aprende a rehidratar tus Secas acá</p>
-</div>
+::::: intro-contenedor
+
+::: texto-intro
+        
+Las setas frescas son fuente de proteína vegetariana sin colesterol, con fibra, vitaminas y minerales.
+
+Las setas Secas son lo mismo, pero duran meses, no días.
+
 :::
+::: {.caja-intro onclick="window.location.href='guia-rapida.html'"}
+  **Guía rápida**
+  Rehidrata Secas en 10 min
+   ⌛ 
+:::
+
+
+:::::
+::::::
 
 <a class="wp-flotante"
    href="https://wa.me/message/4AZ7XIIEAKWYK1?src=qr"
    target="_blank"
-   aria-label="Escribir por WhatsApp">
-  <img src="images/wp_logo.png" alt="WhatsApp">
-  <span>Compra Secas acá</span>
-</a>
-
-
-
-
-
+   aria-label="Escribir por WhatsApp"> <img src="images/wp_logo.png" alt="WhatsApp"/> Compra Secas acá </a>
 
 ## Recetas
 
-:::: {.recetas-grid}
-
+::::::: recetas-grid
 ::: {.receta-card onclick="window.location.href='recetas/orellanas-glaseadas-al-ajo-y-limon.html'"}
-
 ![](images/receta1.jpg)
 
 ### Orellanas al ajillo
 
-Tiempo de preparación: 20 min <br>
-Dificultad: ⭐⭐☆☆☆
-
+Tiempo de preparación: 20 min <br> Dificultad: ⭐⭐☆☆☆
 :::
 
-
 ::: {.receta-card onclick="window.location.href='recetas/receta-2.html'"}
-
 ![](images/receta2.jpg)
 
 ### Pasta con Secas
 
-Tiempo de preparación: 40 min <br>
-Dificultad: ⭐⭐⭐⭐☆
-
+Tiempo de preparación: 40 min <br> Dificultad: ⭐⭐⭐⭐☆
 :::
 
-
 ::: {.receta-card onclick="window.location.href='recetas/receta-3.html'"}
-
 ![](images/receta3.jpg)
 
 ### Arroz con setas
 
-Tiempo de preparación: 20 min <br>
-Dificultad: ⭐⭐⭐☆☆
-
+Tiempo de preparación: 20 min <br> Dificultad: ⭐⭐⭐☆☆
 :::
 
-
 ::: {.receta-card onclick="window.location.href='recetas/receta-4.html'"}
-
 ![](images/receta4.jpg)
 
 ### Tacos de Secas
 
-Tiempo de preparación: 10 min <br>
-Dificultad: ⭐☆☆☆☆
-
+Tiempo de preparación: 10 min <br> Dificultad: ⭐☆☆☆☆
 :::
-
-::::
+:::::::
