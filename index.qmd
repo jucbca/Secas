@@ -115,6 +115,7 @@ Las setas Secas son lo mismo, pero duran meses, no días.
 :::
 ::: {.caja-intro onclick="window.location.href='guia-rapida.html'"}
   **Guía rápida**
+  
   Rehidrata Secas en 10 min
    ⌛ 
 :::
