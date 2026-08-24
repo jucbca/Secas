@@ -99,14 +99,14 @@ format:
 </style>
 ```
 
-:::::: hero-secas
+:::::: {.hero-secas}
 ![](images/logo_texto.png){fig-align="center"}
 
 ## Encuentra todo para preparar tus setas Secas
 
-::::: intro-contenedor
+::::: {.intro-contenedor}
 
-::: texto-intro
+::: {.texto-intro}
         
 Las setas frescas son fuente de proteína vegetariana sin colesterol, con fibra, vitaminas y minerales.
 

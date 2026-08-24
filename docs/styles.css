@@ -31,7 +31,7 @@ button,
 }
 
 /* En celular */
-@media (max-width: 600px) {
+@media (max-width: 480px) {
   .intro-contenedor {
     flex-direction: column;
   }
