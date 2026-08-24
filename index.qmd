@@ -102,15 +102,21 @@ format:
 :::::: {.hero-secas}
 ![](images/logo_texto.png){fig-align="center"}
 
-## Encuentra todo para preparar tus setas Secas
+<h2 style="font-family: 'Montserrat', sans-serif; font-weight: 600;">
+  Encuentra todo para preparar tus setas Secas
+</h2>
 
 ::::: {.intro-contenedor}
 
 ::: {.texto-intro}
         
+<span class="texto-grande"> 
 Las setas frescas son fuente de proteína vegetariana sin colesterol, con fibra, vitaminas y minerales.
+</span>
 
+<span class="texto-medio"> 
 Las setas Secas son lo mismo, pero duran meses, no días.
+</span>
 
 :::
 ::: {.caja-intro onclick="window.location.href='guia-rapida.html'"}

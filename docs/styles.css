@@ -1,7 +1,11 @@
 /* css styles */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Poppins:wght@400;500;600;700&display=swap');
 /* Cursor personalizado */
 body {
     cursor: default;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
 }
 
 /* Mantener la mano en elementos clicables */
@@ -13,6 +17,24 @@ button,
   cursor: url("./images/Seca_16x17.png") 16 16, pointer;
 }
 
+/* Formatos textos */
+.texto-grande{
+  font-size: 18px;
+  font-weight: 400;
+}
+.texto-medio{
+  font-size: 22px;
+  font-weight: 400;
+}
+
+.texto-titulo{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 32px;
+  color: #311D05;
+  letter-spacing: 0.5px;
+}
+
 /* Contenedor de caja + texto */
 .intro-contenedor {
   display: flex;
@@ -22,7 +44,7 @@ button,
 
 /* Caja a la izquierda */
 .intro-contenedor .caja-intro {
-  flex: 0 0 200px;
+  flex: 0 0 240px;
 }
 
 /* Texto a la derecha */
@@ -44,8 +66,8 @@ button,
 
 /* Caja intro */
 .caja-intro {
-  width: 200px;
-  height: 200px;
+  width: 240px;
+  height: 240px;
   box-sizing: border-box;
   display: block;
   padding: 1.5rem 2rem;
