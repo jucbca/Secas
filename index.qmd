@@ -108,17 +108,6 @@ format:
 
 ::::: {.intro-contenedor}
 
-::: {.texto-intro}
-        
-<span class="texto-grande"> 
-Las setas frescas son fuente de proteína vegetariana sin colesterol, con fibra, vitaminas y minerales.
-</span>
-
-<span class="texto-medio"> 
-Las setas Secas son lo mismo, y duran meses, listas para cocinar.
-</span>
-
-:::
 ::: {.caja-intro onclick="window.location.href='guia-rapida.html'"}
   **Guía rápida**
   
@@ -135,38 +124,3 @@ Las setas Secas son lo mismo, y duran meses, listas para cocinar.
    target="_blank"
    aria-label="Escribir por WhatsApp"> <img src="images/wp_logo.png" alt="WhatsApp"/> Compra Secas acá </a>
 
-## Recetas
-
-::::::: recetas-grid
-::: {.receta-card onclick="window.location.href='recetas/orellanas-glaseadas-al-ajo-y-limon.html'"}
-![](images/receta1.jpg)
-
-### Orellanas al ajillo
-
-Tiempo de preparación: 20 min <br> Dificultad: ⭐⭐☆☆☆
-:::
-
-::: {.receta-card onclick="window.location.href='recetas/receta-2.html'"}
-![](images/receta2.jpg)
-
-### Pasta con Secas
-
-Tiempo de preparación: 40 min <br> Dificultad: ⭐⭐⭐⭐☆
-:::
-
-::: {.receta-card onclick="window.location.href='recetas/receta-3.html'"}
-![](images/receta3.jpg)
-
-### Arroz con setas
-
-Tiempo de preparación: 20 min <br> Dificultad: ⭐⭐⭐☆☆
-:::
-
-::: {.receta-card onclick="window.location.href='recetas/receta-4.html'"}
-![](images/receta4.jpg)
-
-### Tacos de Secas
-
-Tiempo de preparación: 10 min <br> Dificultad: ⭐☆☆☆☆
-:::
-:::::::
