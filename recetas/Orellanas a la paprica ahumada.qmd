@@ -1,0 +1,54 @@
+# Orellanas a la paprica ahumada
+
+Tiempo de preparación: 20 min
+
+![](images/imagen_receta.png){fig-align="center" width="80%"}
+
+## Ingredientes para 2 porciones
+
+- 40 g de setas Secas
+- 1 cucharadita de paprica ahumada
+- 1 pizca de comino molido
+- 1 pizca de pimienta
+- 1 pizca de semillas de cilantro molidas
+- 1 cucharada de miel o sirope de agave
+- 1 cucharada de aceite de oliva
+- 1 cucharada de salsa de tomate
+- Sal al gusto
+
+## Pasos a seguir
+
+1.  **Hidrata las Secas (5 min)**\
+    Sumerge las Secas en agua caliente (mientras esperas haz paso 2). Tras 5 minutos escurre bien, presionando suavemente para sacar el exceso de agua. Si hay tallos muy duros, cortalos y descartalos.
+
+2.  **Preparar marinada (2 min)**\
+    Mezclar en las cantidades indicadas arriba todos los ingredientes: paprica ahumada, sal, comino, pimienta, cilantro, miel y aceite de oliva.
+
+3.  **Marinar (3 min)**\
+    En un recipiente hondo mezcla bien las Secas hidratadas y la marinada del punto 2. Mezcla por 3 min mientras se absorbe la salsa. Calienta un sartén a fuego medio para el paso 4.
+
+4.  **Sofreir (5 min)**\
+    Pon las Secas en el sartén caliente hasta que se doren en la superficie. (mientras esperas haz paso 5)
+
+5.  **Prepara segunda hidratación \### min**\
+    Mezcla en el recipiente hongo agua y salsa de tomate ###CUANTO. Calienta el sartén a fuego alto.
+
+6.  **Sofreir (5 min)**\
+    Sofríe las Secas a fuego algo hasta que se pongan los bordes crujientes.
+
+7.  **Acompaña**\
+    Acompaña esta preparacion con pico de gallo fresco.
+
+::: {style="text-align:center;"}
+<a href="../index.html"
+     style="display:inline-flex;
+            flex-direction:column;
+            align-items:center;
+            text-decoration:none;
+            color:#555;"> <img src="../images/logo_texto.png" width="220"/> [← Volver al inicio]{style="margin-top:8px;"} </a>
+:::
+
+<a class="wp-flotante"
+   href="https://wa.me/message/4AZ7XIIEAKWYK1?src=qr"
+   target="_blank"
+   aria-label="Escribir por WhatsApp"> <img src="../images/wp_logo.png" alt="WhatsApp"/> Compra Secas acá </a>

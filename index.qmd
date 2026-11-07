@@ -111,7 +111,7 @@ format:
 ::: {.caja-intro onclick="window.location.href='guia-rapida.html'"}
   **Guía rápida**
   
-  Rehidrata Secas en 10 min
+  Prepara Secas en 10 min
    ⌛ 
 :::
 
