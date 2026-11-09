@@ -1,0 +1,68 @@
+# Orellanas asadas a la páprika ahumada
+
+Tiempo de preparación: 60 minutos–24 horas
+
+Tiempo de cocción: 30 minutos
+
+<!-- Añadir aquí la foto de la receta cuando esté disponible:
+![](images/orellanas-asadas-a-la-paprica-ahumada.png){fig-align="center" width="80%"}
+-->
+
+## Ingredientes
+
+- 80 g de orellanas deshidratadas
+- Agua suficiente para cubrir las orellanas
+
+### Marinada
+
+- 3 cucharaditas de páprika ahumada
+- 1 cucharadita de comino
+- ½ cucharadita de pimienta
+- 3 cucharaditas de ajo
+- 1 cucharadita de sal
+- 1 cucharadita de semillas de cilantro trituradas
+- ½ cucharadita de sirope de agave
+- 2 cucharadas de aceite de oliva
+
+### Para cocinar y terminar
+
+- 1 cucharada de salsa de tomate
+- 2 cucharaditas de salsa de soya
+- 1 cucharadita de aceite neutro para la sartén
+
+## Pasos a seguir
+
+1.  **Hidrata las orellanas.**\
+    Coloca las orellanas deshidratadas en un recipiente grande y añade suficiente agua para cubrirlas por completo. Déjalas en remojo durante al menos 30 minutos, o hasta que todas estén completamente hidratadas. Si durante el remojo el agua deja de cubrirlas, añade más.
+
+2.  **Escurre y retira el exceso de agua.**\
+    Vierte las orellanas en un colador para retirar el agua. Devuélvelas al recipiente grande, un puñado a la vez, apretándolas con las manos para extraer el agua restante.
+
+3.  **Desmenuza y marina.**\
+    Con las manos, divide cada orellana en 2–3 tiras. Añade todos los ingredientes de la marinada y mezcla hasta que las tiras queden cubiertas de manera uniforme. Tapa el recipiente y deja marinar durante una hora a temperatura ambiente, o en la nevera hasta por 24 horas.
+
+4.  **Dora las orellanas.**\
+    Después de al menos una hora de marinado, calienta una sartén grande a fuego medio con 1 cucharadita de aceite neutro. Añade las orellanas y cocínalas hasta que estén doradas y crujientes. Procura que todas estén en contacto con la sartén; si es necesario, cocínalas en varias tandas.
+
+5.  **Añade la salsa y termina la cocción.**\
+    Mezcla la salsa de tomate con la salsa de soya. Cuando las orellanas estén doradas y crujientes, añade la mezcla a la sartén y remueve para cubrirlas por completo. Continúa cocinando hasta que la salsa se reduzca y las orellanas vuelvan a estar crujientes.
+
+6.  **Acompaña con.**\
+    Sirve las orellanas asadas sobre una cama de arroz, con pico de gallo, frijoles y una proteína de tu elección. Una opción es acompañarlas con pollo vegano desmechado hecho a base de gluten.
+
+::: {style="text-align:center;"}
+<a href="../index.html"
+     style="display:inline-flex;
+            flex-direction:column;
+            align-items:center;
+            text-decoration:none;
+            color:#555;"> <img src="../images/logo_texto.webp" width="220" alt="Secas"/> [← Volver al inicio]{style="margin-top:8px;"} </a>
+:::
+
+<a class="wp-flotante"
+   href="https://wa.me/message/4AZ7XIIEAKWYK1?src=qr"
+   target="_blank" rel="noopener"
+   aria-label="Escribir por WhatsApp">
+  <img src="../images/wp_logo.png" alt="WhatsApp">
+  <span>Compra Secas acá</span>
+</a>

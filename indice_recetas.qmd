@@ -1,0 +1,31 @@
+---
+title: ""
+pagetitle: "Recetas | Secas"
+format:
+  html:
+    page-layout: full
+    anchor-sections: false
+---
+
+```{=html}
+<section class="hero-secas indice-recetas" aria-labelledby="titulo-recetas">
+  <h1 id="titulo-recetas" class="hero-titulo">Encuentra inspiración para preparar tus Secas</h1>
+
+  <div class="recetas-grid">
+    <a class="caja-intro" href="recetas/orellanas-asadas-a-la-paprica-ahumada.html">
+      <h2 class="hero-titulo">Orellanas asadas a la páprika ahumada</h2>
+      <p>Ver receta →</p>
+    </a>
+  </div>
+
+  <p><a href="index.html" class="volver-inicio">← Volver al inicio</a></p>
+</section>
+
+<a class="wp-flotante"
+   href="https://wa.me/message/4AZ7XIIEAKWYK1?src=qr"
+   target="_blank" rel="noopener"
+   aria-label="Escribir por WhatsApp">
+  <img src="images/wp_logo.png" alt="WhatsApp">
+  <span>Compra Secas acá</span>
+</a>
+```
