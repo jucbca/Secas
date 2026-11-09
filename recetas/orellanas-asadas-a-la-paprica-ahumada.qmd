@@ -4,9 +4,7 @@ Tiempo de preparación: 1 hora
 
 Tiempo de cocción: 30 minutos
 
-<!-- Añadir aquí la foto de la receta cuando esté disponible:
-![](images/orellanas-asadas-a-la-paprica-ahumada.png){fig-align="center" width="80%"}
--->
+![](../images/orellanas-asadas-a-la-paprica-ahumada.png){fig-align="center" width="80%" style="border: 2mm solid #311D05; box-sizing: border-box;"}
 
 ## Ingredientes
 
