@@ -9,6 +9,7 @@ format:
 
 ```{=html}
 <section class="hero-secas indice-recetas" aria-labelledby="titulo-recetas">
+  <p><img src="images/logo_texto.png" alt="Secas" width="650" height="182"></p>
   <h1 id="titulo-recetas" class="hero-titulo">Encuentra inspiración para preparar tus Secas</h1>
 
   <div class="recetas-grid">
